@@ -1,6 +1,9 @@
 # resume
 Professional resume - Curriculum built with HTML, Bootstrap 5 and CSS
 
+## Demo
+[Live Demo](https://carogaltier.github.io/resume/)
+
 ## Screenshots
 ![Carolina Gonzalez Galtier CV](/screenshots/carolina-gonzalez-galtier-CV.jpg "Carolina Gonzalez Galtier CV")
 
