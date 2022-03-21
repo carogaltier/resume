@@ -4,13 +4,16 @@
     color: #000;
 }
 
-.text-dark-grey {
-    color:#97AAC3;
+.work .text-dark-grey {
     font-size: 0.9rem;
 }
 
+.text-dark-grey {
+    color:#7F7F7F;
+}
+
 .text-light-grey {
-    color:#c9c9c9;
+    color:#A9A9A9;
 }
 
 .nav-link.text-light-grey:hover {
@@ -19,12 +22,14 @@
 
 .text-subtitle {
     font-size: 1.2rem;
-    font-weight: light;
     font-family: sans-serif;
     text-align: center;
+    font-style:italic;
+    color: #7AA9C0;
 }
+
 .bg-aside {
-    background-color: rgb(35, 68, 95);
+    background-color: #F2F2F2;
 }
 
 .text-justify {
@@ -33,4 +38,15 @@
 
 h5, h4 {
     color:#4c85a1;
+}
+
+.text-light-blue {
+    color: #7AA9C0;
+}
+
+hr {
+    width: 40px;
+    margin: auto;
+    color:#4c85a1;
+    margin-bottom: 3rem;
 }
